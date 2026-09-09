@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="112" fill="#0d2f57"/>
+<path d="M256 72 414 164v184L256 440 98 348V164Z" fill="#0b63ce"/>
+<path d="M256 102 385 177v150L256 402 127 327V177Z" fill="#ffffff" opacity=".12"/>
+<text x="256" y="277" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="132" font-weight="700" fill="#fff">KT1</text>
+<text x="256" y="330" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="600" fill="#f1c45a">SD NEGERI</text>
+</svg>
